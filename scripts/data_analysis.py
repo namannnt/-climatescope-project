@@ -5,9 +5,6 @@ Global Weather Repository Dataset
 This script performs detailed exploratory data analysis on the cleaned
 weather dataset, including geographic coverage, weather patterns, air quality,
 and extreme weather event identification.
-
-Author: Sanskriti
-Date: November 2024
 """
 
 import pandas as pd
