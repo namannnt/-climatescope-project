@@ -2,8 +2,7 @@
 
 ## Project: ClimateScope - Global Weather Trends Analysis
 
-**Author**: Sanskriti  
-**Completion Date**: December 2024  
+**Author**: Naman
 **Status**: ✅ Complete
 
 ---
@@ -379,13 +378,10 @@ protobuf==3.20.3
 ```
 
 ### Project Statistics
-- **Total Files**: 6 main files + folders
 - **Data Size**: 107,573 records
 - **Geographic Coverage**: 211 countries, 254 locations
 - **Time Period**: 18 months (May 2024 - Nov 2025)
 - **Variables Analyzed**: 10+ weather and air quality metrics
 
 ---
-
-**Report Generated**: December 2024  
 **Project Status**: Complete and Production-Ready ✅
